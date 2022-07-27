@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ 
+}
+.containerr{
+    display:flex;
+    color: aqua;
+    padding-left:20px;
+    
+}
+.sp{
+    width:25% ;
+    text-align: center;
+    border: 1px solid #000;
+}
